@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="main.js" defer></script>
+</head>
+
+<body>
+<h2>Triangle Classifier</h2>
+
+<form id="triangleForm">
+  <label for="side1">Enter the length of side 1:</label><br>
+  <input type="number" id="side1" name="side1"><br>
+
+  <label for="side2">Enter the length of side 2:</label><br>
+  <input type="number" id="side2" name="side2"><br>
+
+  <label for="side3">Enter the length of side 3:</label><br>
+  <input type="number" id="side3" name="side3"><br>
+
+  <button type="button" onclick="classifyTriangle()">Classify Triangle</button>
+</form>
+
+<p id="result"></p>
+</body>
+
+</html>

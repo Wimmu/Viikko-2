@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="main.js" defer></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+  </style>
+</head>
+
+<body>
+<h2>Multiplication Table Generator</h2>
+
+<form id="multiplicationForm">
+  <label for="number">Enter a positive integer:</label><br>
+  <input type="number" id="number" name="number" min="1" required><br>
+
+  <button type="button" onclick="generateTable()">Generate Table</button>
+</form>
+
+<table id="multiplicationTable">
+  <!-- Table will be generated here -->
+</table>
+</body>
+
+</html>
