@@ -51,14 +51,14 @@ Tehtävä 2 (12p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/We
 Yhteenä: 24p
 
 ## AJAX
-Tehtävä 1 (2p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_1/Exercise_2/Exercise_2.html)
+Tehtävä 1 (2p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_2/ajax/Excersice_1/t1.html)
 
-Tehtävä 2 (3p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_1/Exercise_2/Exercise_2.html)
+Tehtävä 2 (3p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_2/ajax/Excersice_2/t2.html)
 
-Tehtävä 3 (4p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_1/Exercise_2/Exercise_2.html)
+Tehtävä 3 (4p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_2/ajax/Excersice_3/t3.html)
 
-Tehtävä 4 (5p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_1/Exercise_2/Exercise_2.html)
+Tehtävä 4 (5p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_2/ajax/Excersice_4/t4.html)
 
-Tehtävä 5 (10p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_1/Exercise_2/Exercise_2.html)
+Tehtävä 5 (10p): [Linkki tehtävään](https://users.metropolia.fi/~wilmais/Websovelluskehitys/Teht%c3%a4v%c3%a4t/Viikko_2/ajax/Excersice_5/t5.html)
 
 Yhteenä: 24p
