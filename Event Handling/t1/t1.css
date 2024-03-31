@@ -1,0 +1,129 @@
+/* Add this CSS to change background color of li when checkbox is checked */
+input[type='checkbox']:checked ~ li {
+  background-color: #6fcf97; /* Change background color to green */
+}
+
+/* Rest of your existing CSS */
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15rem;
+}
+
+li {
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  justify-content: space-between;
+  line-height: 3rem;
+  background-color: #ffffff; /* Set background color for list items */
+}
+
+li:hover {
+  background-color: #f0f0f0; /* Set background color for list items on hover */
+}
+
+label {
+  display: block;
+  width: calc(100% - 5rem); /* Adjusted width to accommodate the delete button */
+  padding-left: 1rem;
+}
+
+input[type='checkbox'] {
+  margin: 0.5rem;
+}
+
+button:hover {
+  background-color: #f00;
+  color: #fff;
+}
+
+button {
+  margin-right: 0.5rem;
+}
+
+/* Modal */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0, 0, 0, 0.4); /* Black background with opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Form Style */
+#add-item-form {
+  display: flex;
+  flex-direction: column;
+}
+
+#add-item-form label {
+  margin-bottom: 0.5rem;
+}
+
+#add-item-form input[type='text'] {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#add-item-form button[type='submit'] {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#add-item-form button[type='submit']:hover {
+  background-color: #0056b3;
+}
+
+/* Add Item Button */
+#add-item-btn {
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#add-item-btn:hover {
+  background-color: #0056b3;
+}
