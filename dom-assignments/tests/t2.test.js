@@ -22,7 +22,7 @@ describe('Todo List HTML Generation', () => {
     await page.setContent(initialHtml);
 
     // Include the student's JavaScript code from the separate file
-    const studentCode = await fs.readFile('./t2/t2.js', 'utf-8');
+    const studentCode = await fs.readFile('./t2/t1.js', 'utf-8');
     await page.evaluate(studentCode);
 
     // Get the generated HTML content
